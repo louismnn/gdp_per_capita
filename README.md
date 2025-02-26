@@ -4,9 +4,9 @@ J'ai conçu une interface tkinter en python pour pouvoir visualiser le PIB par h
 
 ## Données
 
-J'ai commencé mon projet par récupèrer les données nécéssaire auprès de la banque mondiale que vous pouvez retrouver [juste içi](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=EU)\\
+J'ai commencé mon projet par récupèrer les données nécéssaire auprès de la banque mondiale que vous pouvez retrouver [juste içi](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=EU)\
 
-J'ai ensuite continué conservant seulement les données nécessaires et triés. Je me suis donc retrouver avec le jeu de données intutilé : world_gdp_capita.csv\\
+J'ai ensuite continué conservant seulement les données nécessaires et triés. Je me suis donc retrouver avec le jeu de données intutilé : world_gdp_capita.csv\
 
 ## Interface
 
